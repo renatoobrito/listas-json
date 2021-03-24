@@ -1,0 +1,45 @@
+[
+  {
+    "type": [
+      "Celulose",
+      "Papel Simples",
+      "Marrom",
+      "Vidro"
+    ]
+  },
+  {
+    "size": [
+      "Single",
+      "1.1/4\"",
+      "1.1/2\"",
+      "Double",
+      "King Size"
+    ]
+  },
+  {
+    "productID": "1",
+    "name": "Raw",
+    "img": "https://cdn11.bigcommerce.com/s-1n8r405nxd/images/stencil/2000x2000/products/4880/16235/86235-1-F-Raw-Classic-King-Size-Pre-Rolled-Cone-Tip-Natural-Unrefined-110mm-Product-Top__88151.1588709677.jpg?c=2",
+    "price": 100,
+    "priceFormatted": "R$ 100,00",
+    "inStock": false,
+    "relatedInfo": [
+      {
+        "type": [
+          "Celulose",
+          "Marrom",
+          "Papel Simples",
+          "Vidro"
+        ],
+        "size": [
+          "Single",
+          "1.1/4\"",
+          "1.1/2\"",
+          "Double",
+          "King Size"
+        ]
+      }
+    ]
+  },
+  {}
+]
